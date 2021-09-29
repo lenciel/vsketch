@@ -2,7 +2,7 @@ import pathlib
 from typing import Any, Optional, Type
 
 import vpype as vp
-from PySide2.QtCore import QThread, Signal
+from PySide6.QtCore import QThread, Signal
 
 import vsketch
 

@@ -1,8 +1,8 @@
 import asyncio
 import pathlib
 
-from PySide2.QtCore import Qt
-from PySide2.QtWidgets import QApplication
+from PySide6.QtCore import Qt
+from PySide6.QtWidgets import QApplication
 from qasync import QEventLoop
 
 from .sketch_viewer import SketchViewer

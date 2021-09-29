@@ -5,8 +5,8 @@ from typing import Any, Dict, Optional, Type
 
 import vpype_viewer
 import watchgod
-from PySide2.QtCore import QThread, Signal
-from PySide2.QtWidgets import (
+from PySide6.QtCore import QThread, Signal
+from PySide6.QtWidgets import (
     QLabel,
     QPushButton,
     QScrollArea,
